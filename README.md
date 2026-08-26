@@ -22,7 +22,7 @@ The objective of this project is to transform raw Mini-Mart sales data into mean
 
 ## Tools & Technologies
 
-* Microsoft Excel 
+* Microsoft Excel '<herf>https://github.com/IykeTheAnalyst/Mini-Mart-Sales-2026-Insights/blob/main/MINI_MART_SALES_DATASETS.xlsx
 * SQL
 * Power BI
 * GitHub
