@@ -144,7 +144,7 @@ Based on these findings, management could:
 
 ## Dashboard
 
-![Mini-Mart Sales Dashboard](dashboard/dashboard_overview.png)
+https://github.com/IykeTheAnalyst/Mini-Mart-Sales-2026-Insights/blob/main/MINI-MART%20SALES%20RECORD.pbix
 
 ## Skills Demonstrated
 
